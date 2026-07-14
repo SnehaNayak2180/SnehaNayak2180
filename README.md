@@ -135,15 +135,15 @@ https://github.com/SnehaNayak2180/Edwin-Portfolio
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SnehaNayak2180&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=SnehaNayak2180&show_icons=true&theme=dark&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SnehaNayak2180&theme=dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=SnehaNayak2180&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaNayak2180&theme=dark&hide_border=false&layout=compact" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SnehaNayak2180&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -151,23 +151,5 @@ https://github.com/SnehaNayak2180/Edwin-Portfolio
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SnehaNayak2180&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
-
-### ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SnehaNayak2180&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  💻 Building backend systems, solving problems, and learning every day.
+  <img src="https://github-profile-trophy.vercel.app/?username=SnehaNayak2180&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
 </p>
