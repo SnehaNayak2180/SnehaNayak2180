@@ -148,8 +148,14 @@ https://github.com/SnehaNayak2180/Edwin-Portfolio
 
 ---
 
+---
+
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SnehaNayak2180&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://trophy.benkou.dev/?username=SnehaNayak2180&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 </p>
+
+---
+
+### ✍️ Random Dev Quote
